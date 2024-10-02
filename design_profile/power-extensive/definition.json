@@ -16,11 +16,6 @@
         "version": "all",
         "conf": "acx_power-ext.conf"
         }
-      ],
-      "ex": [ {
-        "version": "all",
-        "conf": "ex_power-ext.conf"
-        }
       ]
     },
     "kapacitor": ["power-ext.tick", "power-ext-traffic.tick"],
