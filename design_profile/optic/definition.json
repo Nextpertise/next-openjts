@@ -20,6 +20,11 @@
         "version": "all",
         "conf": "acx_optic.conf"
         }
+      ],
+      "ex": [ {
+        "version": "all",
+        "conf": "ex_optic.conf"
+        }
       ]
     },
     "kapacitor": null,

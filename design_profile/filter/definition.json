@@ -16,6 +16,11 @@
         "version": "all",
         "conf": "acx_filter.conf"
         }
+      ],
+      "ex": [ {
+        "version": "all",
+        "conf": "ex_filter.conf"
+        }
       ]
     },
     "kapacitor": [],

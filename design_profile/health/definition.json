@@ -25,6 +25,11 @@
         "version": "all",
         "conf": "acx_health.conf"
         }
+      ],
+      "ex": [ {
+        "version": "all",
+        "conf": "ex_health.conf"
+        }
       ]
     },
     "kapacitor": null,
