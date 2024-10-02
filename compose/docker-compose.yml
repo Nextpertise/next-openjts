@@ -112,7 +112,7 @@ services:
       - ./grafana/data:/var/lib/grafana
       - ./grafana/plugins:/var/lib/grafana/plugins
   jtso:
-    build: git@github.com:Nextpertise/next-openjts.git
+    build: https://github.com/Nextpertise/next-jtso.git
     image: jtso:latest
     container_name: jtso
     restart: always
